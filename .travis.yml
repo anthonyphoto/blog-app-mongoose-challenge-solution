@@ -6,6 +6,6 @@ deploy:
   provider: heroku
   api_key:
     secure: eWG9p/7lkjxAMBCWeohydum4S57wM/VfXmzpbjmaRJk7brgKs+Ku8wtlpu9rFpvjJn2Cl6prjSELOC+RUh7GMO7Eunmeeu69fwW7yTi2aruZdcUChMmhhEM740eH2VhtMHs+dXr4mvx96oblNixmMqrKtilw9r7VlY5OCbSZ+SYUCecCCU8CCaqGfzsBCzLwIXFAa4w7l2QoeF7J5AIHcQyfJqTtEeP2hkj33VLlFF0vzxNmjNZlxPjIWJQe+iVd8ol6OPfWMIYpyQ/b5D2ythtrzZ0KXR++S5J9Zzc++rOhQrqrqD4Es01jIsrPHxQvkq+vLWw7cJoIOK72WcKYYxIx10Vph0lOy1v3tqCu873VnUuOt+E0HsNSuKVTbIztE976oRjNLq6NnX/HRcEcb2/f3f2YNklpHLTtT7b6hJ9kqvplmBTivYLgT+QuvrOpPfB5ggK9WBIxzRu4amvX6s2/+YS+Xo/sN2oWl4EVvq9G+vqddxY3/KzWo68uSLdbseJsqf1boEHEe1ng6GFkdGS8C0HTEKRH8UQQXexbx1iSoEqYtAdGrpEodnhFnQSZfaDh8ca0fV+GQlBohbCT2at7agU2rdPezbJLxGQYMjFSRz24AViz8LoIyWg3gdgeC6JH8jFAAHg1zwpB5ehL406qIihuozJYiqakBPwsSig=
-  app: https://git.heroku.com/blog-app-mongo7515.git
+  app: blog-app-mongo7515.git
   on:
     repo: anthonyphoto/blog-app-mongoose-challenge-solution
